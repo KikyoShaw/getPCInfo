@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/ic_gb.png</file>
+        <file>images/ic_gb_bright.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>images/whiteScrollbar.qss</file>
+    </qresource>
+</RCC>

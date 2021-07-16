@@ -26,8 +26,8 @@ private:
 
 private:
 	Ui::weatherInfo ui;
-	//网络组件
+	//缃戠粶缁勪欢
 	QNetworkAccessManager *m_networkGetWeather = nullptr;
-	//窗口管理
+	//绐楀彛绠＄悊
 	QObjectCleanupHandler m_widgetsHandler;
 };

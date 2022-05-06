@@ -1,5 +1,6 @@
 # getPCInfo
 
+#### 介绍
 获取电脑配置信息和天气小工具
 
 开发环境：Qt5.12.11+vs2017
@@ -35,3 +36,6 @@ TODO
 1.实时监控宽带上行和下行
 
 2.CPU温度
+
+#### 效果图
+![image](https://github.com/KikyoShaw/getPCInfo/blob/master/GIF/1.gif)
